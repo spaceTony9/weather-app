@@ -1,8 +1,8 @@
-how run locally use?
+# React + Vite
 
-run in terminal:  "npm i" and then "npm run dev"
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-or visit gitHub pages: 
+Currently, two official plugins are available:
 
-git: https://github.com/spaceTony9/weather-app
-pages: https://spacetony9.github.io/weather-app/
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
