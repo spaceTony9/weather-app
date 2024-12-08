@@ -8,4 +8,4 @@ or
 visit Github: 
 
 GitHub: https://github.com/spaceTony9/weather-app
-Github pages:https://spacetony9.github.io/weather-app/
+Github pages:https://spnpm runacetony9.github.io/weather-app/
